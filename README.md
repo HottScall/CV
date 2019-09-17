@@ -27,10 +27,7 @@ Over the past several years I have also kept an eye on the emergence of the tech
 
 Name | Description | Tech | Timeframe | Demo
 ---| --- | --- | --- | --- |
-**[Rhythm is a Maker](https://github.com/shektor/rhythm-is-a-maker)** | Our final group project at Makers Academy. A team of 6 who chose to be in a group which focussed on a music related product decided to build a web application from the ground up which allowed you to create music on the go using our drum loop machine and virtual keyboard. Additional features include Live Chat and Disco Mode for the real party people.
-
-My personal involvement on this project was mainly around the front end design with a specific focus on building the Web API keyboard, its volume, and the various sounds effects. 
-
+**[Rhythm is a Maker](https://github.com/shektor/rhythm-is-a-maker)** | Our final group project at Makers Academy. A team of 6 who chose to be in a group which focussed on a music related product decided to build a web application from the ground up which allowed you to create music on the go using our drum loop machine and virtual keyboard. Additional features include Live Chat and Disco Mode for the real party people. My personal involvement on this project was mainly around the front end design with a specific focus on building the Web API keyboard, its volume, and the various sounds effects. 
 My initial role was to understand how to use an unknown Javascript Framework called Tone.js which allows you to create synth related sounds without having to use MP3’s, allowing for quicker response time from keypress to sound output.</a> | Javascript, Tone.js, Xcode, Jasmine, Karma, Travis, Heroku | 2 weeks (group) | <a href=https://rhythm-is-a-maker.herokuapp.com/><img src="Images/youtube.png" width="40"></a> |
 **[Bearbook](https://github.com/ocripps24/Acebook-The-Brave-Bears)** | AA two-week group project whereby a team 6 Junior Developers had to build a basic version of Facebook from scratch using Ruby on Rails, a previously unused programming Tech Stack. We were presented with a client brief which we broke down into relevant User Stories which we assigned to pairs. For the initial Rails, Database and CI/CD set up we all mobbed together to ensure we had an involvement around project set up.
 
