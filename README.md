@@ -51,17 +51,25 @@ A link to some on-line evidence (blogs, videos, articles, etc.)
 
 <h3 align="center">Education</h3>
 
-Makers Academy (start_date to end_date)
-OOP, TDD, MVC, DDD
-Agile/XP
-Ruby, Rails, JavaScript
-RSpec, Jasmine
-Your University / College (start_date to end_date)
-Subject, any specialisms
-Grade
-Other cool stuff
-Any other qualifications
-That in some arguable way make you a better software developer or well-rounded person
+<h5 align="center">March 2019 — June 2019</h5>
+<h5 align="center">Makers Academy</h5>
+<h5 align="center">Software Development Course</h5>
+
+During my time at Makers, I have undertaken various projects either as a team or by way of pair programming and I’ve been exposed to the following programming languages; Ruby, Rails, Javascript and JQuery. A large proportion of my time at Makers was spent using TDD methodology as well some coverage of feature testing. I also have an understanding of the following coding principles;
+
+<h5 align="center">Object Orientated Programming</h5>
+MVC Model Diagrams and Database Modelling
+
+<h5 align="center">Agile Development Methodologies</h5>
+Stand Up’s, End of day retro’s, Updating Wiki with days achievements and overalls goals.
+Pair Programming
+Some Kanban — Mainly via the Card Wall on Github
+2 Day Sprints with Sprint Planning and Reviews
+
+<h5 align="center">Additional Technologies</h5>
+Git — Creating repositories, creating branches of repo’s, submitting pull requests, reviewing code, resolving merge conflicts.
+Postgres — Creating Schema’s, displaying tables, deleting rows and columns
+CI/CD — Continuous Improvements mainly via Travis and Continuous Deployment via Heroku
 
 <h3 align="center">Experience</h3>
 
