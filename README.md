@@ -18,12 +18,21 @@
 
 <h3 align="center">Background</h3>
 
-Hi, I'm Scott and I'm a recent Makers Graduate having completed their 16 week (4 weeks pre-course all based off site and 12 weeks full time on comapus) software development bootcamp. Prior to Makers I spent 10 years recruiting for Design Engineers within the construction industry and I was always intrigued by the team related Engineering ethos, where a group of individuals work together as a collective team to achieve the end goal of delivering a project within a specific time frame. The more time I spent with these Engineers, sitting in their design and progress meetings and see the concept of an idea become a reality, the more I wanted some involvement in this way of working. 
-This, along with the my ongoing interest in how software has become more a prominent factor in our daily lives has seen a continual growth of the sector so I eventually decided to make the plunge and change careers to become a Software Developer.  
+Hi, I'm Scott and I'm a recent Makers Graduate having completed their 16 week (4 weeks pre-course off-site and 12 weeks full time on campus) software development boot camp. Prior to Makers I spent 10 years recruiting for Design Engineers within the construction industry and I was always intrigued by the team related Engineering ethos, where a group of individuals works together as a collective to achieve the end goal of delivering a project within a specific time frame. The more time I spent with these Engineers; sitting in their design and progress meetings, seeing the progression of how an idea becomes a reality, the more I wanted some involvement in this way of working. 
+Over the past several years I have also kept an eye on the emergence of the technology sector and its continual growth during those years were the main reasons I decided to switch careers.
 
 <br>
 
 <h3 align="center">Projects</h3>
+
+Name | Description | Tech | Timeframe | Demo
+---| --- | --- | --- | --- |
+**[Dinnergy](https://github.com/ocripps24/dinnergy)** | Final group project building a food waste and planning app in Apple's Swift language. Users add their ingredients to receive recipes based on what they currently have. I discuss some of the challenges faced in my <a href="http://www.olivercripps.com/2019/06/dinnergy-app-our-final-project-at-makers/">blog.</a> | Swift, XCTest, Xcode, SQLite, SwiftLint, Travis | 2 weeks (group) | <a href="https://youtu.be/Py4tzqebL_Y"><img src="Images/youtube.png" width="40"></a> |
+**[Bearbook](https://github.com/ocripps24/Acebook-The-Brave-Bears)** | Acebook is a social media clone featuring user walls, posts and comments. It was a group engineering project with a focus on Agile and High Quality processes. | Ruby on Rails, RSpec, Capybara, Travis, Rubocop, PSQL | 2 weeks (group) | <a href="http://acebook-the-brave-bears.herokuapp.com/"><img src="Images/heroku.png" width='40'></a> |
+**[MakersBnB](https://github.com/ocripps24/MakersBnb)** | A simple clone of AirBnB with signup/login and adding / editing / viewing listings as features. Our first group engineering project with just 4 days to work with and a new tech stack represented a genuine challenge. Further discussion on my <a href="http://www.olivercripps.com/2019/06/makersbnb-engineering-project/">blog.</a> | JavaScript, Node.js, Express, HTML (Pug), CSS, Nightwatch, Jasmine | 1 week (group) | <a href="https://makers-bnb-oliver.herokuapp.com/"><img src="Images/heroku.png" width='40'></a> |
+**[Instagram Clone](https://github.com/ocripps24/instagram-clone)** | Following the excitement of building the Netflix clone, I wanted to continue my exploration of Dart / Flutter by creating this clone of the Instagram UI. I learnt several new concepts and felt much more comfortable working with Flutter this time around. | Flutter / Dart | 2-3 days (solo) | <a href="https://youtu.be/mdu1C4mIYps"><img src="Images/youtube.png" width="40"></a> |
+**[Netflix Clone](https://github.com/ocripps24/netflix-clone)** | After attending a Flutter meetup, I was excited to see what could be achieved with the language and I wanted to try it myself by building the home page UI of a popular tech service, alongside a tutorial. | Flutter / Dart | 2-3 days (solo) | <a href="https://youtu.be/S_WRuDTjXjw"><img src="Images/youtube.png" width="40"></a> |
+
 
 <br>
 
