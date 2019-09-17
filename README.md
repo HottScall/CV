@@ -1,8 +1,8 @@
 <h1 align="center">Scott Hall</h1>
-<h3 align="center">Junior Developer</h3>
+<h2 align="center">Junior Developer</h2>
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
-Skills
+<h3 align="center">Skills</h3>
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 This Skill
@@ -16,7 +16,9 @@ I achieved A during my work at B (job, or otherwise)
 I contributed to the growth of X while doing Y (job, or otherwise)
 I built this, made this, broke this, fixed this, etc.
 A link to some on-line evidence (blogs, videos, articles, etc.)
-Education
+
+<h3 align="center">Education</h3>
+
 Makers Academy (start_date to end_date)
 OOP, TDD, MVC, DDD
 Agile/XP
@@ -29,7 +31,7 @@ Other cool stuff
 Any other qualifications
 That in some arguable way make you a better software developer or well-rounded person
 
-Experience
+<h3 align="center">Experience</h3>
 Company Name (start_date to end_date)
 Your job title
 
