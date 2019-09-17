@@ -16,8 +16,10 @@
 
 <br>
 
-<h3 align="center">Introduction</h3>
+<h3 align="center">Background</h3>
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
+<h3 align="center">Projects</h3>
 
 <h3 align="center">Skills</h3>
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -59,3 +61,5 @@ Your job title
 Any experience relevent to software development
 Hobbies
 Any cool stuff that makes you a super part of a software development team
+
+<h3 align="center">Interests</h3>
