@@ -1,5 +1,7 @@
 <h1 align="center">Scott Hall</h1>
 <h2 align="center">Junior Developer</h2>
+
+<h3 align="center">Introduction</h3>
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 <h3 align="center">Skills</h3>
