@@ -1,4 +1,4 @@
-<h1> Scott Hall <h1>
+                                           <h1> Scott Hall </h1>
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 Skills
