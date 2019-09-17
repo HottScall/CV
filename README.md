@@ -64,12 +64,37 @@ Any other qualifications
 That in some arguable way make you a better software developer or well-rounded person
 
 <h3 align="center">Experience</h3>
-Company Name (start_date to end_date)
-Your job title
 
-Any experience relevent to software development
-Company Name (start_date to end_date)
-Your job title
+<h5 align="center">September 2014 — March 2019</h5>
+<h5 align="center">Aecom Ltd</h5>
+<h5 align="center">Senior Talent Acquisition Consultant</h5>
+
+Aecom is a multinational Engineering firm with specialisms across Civil, Structural, Electrical, Mechanical and Process Engineering. I was responsible for recruiting the above Engineering disciplines within the Transportation sector across the UK & Ireland. My focus was on hiring people from Graduate Engineers up to Technical Director depending on the requirements for each office.
+
+I often held and led weekly progress meetings with my direct hiring partners via video conference or face to face meetings as well as attending monthly meetings with Senior Directors to discuss the urgent requirements across the sectors and planning future resource for locations where of growth are expected. 
+
+In addition to my usual recruitment role I was also a CRM Super User, which entails looking at continual improvements of our Candidate Management Systems, some tasks are small such as; arranging for new hiring managers to be added to the system or managing our agency portal to larger improvement such providing improvement idea’s to our new CRM which were rolled out during my time at the company. 
+
+
+Jan 2014 — Aug 2014
+Eligo Recruitment
+Senior Building Services Recruitment Consultant
+
+May 2010  —  December 2013
+Morgan Hunt Recruitment
+Senior Building Services Recruitment Consultant
+
+June 2008 —  April 2010
+Pretium Securities Limited
+New Business Development Consultant
+
+June 2006 — May 2008
+Broadgate Mercury Ltd
+Foreign Exchange Broker
+
+Sept 2001 — May 2006
+Royal Bank Of Scotland
+Personal Lending Advisor
 
 Any experience relevent to software development
 Hobbies
