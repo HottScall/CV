@@ -52,9 +52,9 @@ I believe I have a strong team ethic, whereby I am always willing to share my kn
 
 <h2 align="center">Education</h2>
 
-<h5 align="center">Makers Academy</h5>
-<h5 align="center">Software Development Course</h5>
-<h5 align="center">March 2019 — June 2019</h5>
+<h3 align="center">Makers Academy</h3>
+<h4 align="center">Software Development Course</h4>
+<h4 align="center">March 2019 — June 2019</h4>
 
 During my time at Makers, I have undertaken various projects either as a team or by way of pair programming and I’ve been exposed to the following programming languages; Ruby, Rails, Javascript and JQuery. A large proportion of my time at Makers was spent using TDD methodology as well some coverage of feature testing. I also have an understanding of the following coding principles;
 
@@ -71,6 +71,12 @@ Some Kanban — Mainly via the Card Wall on Github
 Git — Creating repositories, creating branches of repo’s, submitting pull requests, reviewing code, resolving merge conflicts.
 Postgres — Creating Schema’s, displaying tables, deleting rows and columns
 CI/CD — Continuous Improvements mainly via Travis and Continuous Deployment via Heroku
+
+<h3 align="center">Birkbeck University</h3>
+<h4 align="center">Bsc in Computer Science</h4>
+<h4 align="center">October 2017 - May 2018</h4>
+
+I completed the first year of a Bsc in Computer Science from Birkbeck University, this was an part time course with lectures in the evening whilst I was still working full time. Lectures I covered and passed during my year at the Univeristy include; Problem Sovling for Programming, Maths for Computing, Database Modelling, Information Systems Concepts (Object Orientated Programming), Web Development (HTML & CSS) and Introduction to Javascript. 
 
 <h2 align="center">Experience</h2>
 
