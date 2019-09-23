@@ -39,19 +39,9 @@ Name | Description | Tech | Timeframe | Demo
 <br>
 
 <h4 align="center">Strong Communicator<h4>
-Strong Communicator - Prior to Makers I spent 10 years in recruitment, 5 years in an external agency and 5 years for a multinational Construction Engineering Consultancy. I have worked with hiring partners anywhere from Principal Engineer to Divisional Director and I feel comfortable with communication with people at all levels within a company organisation. I also undertand the importance of delivering quality, detailed feedback which focusses on both the positives of somebodies work, but also the area’s of improvement. I also feel comfortable that I can explain detailed technical information in a way that non technical people can understand. An example of this would be on our Brave Bears project, we had all split into pairs and were working on specific parts of a project when a number of team members were concerned about not understanding the other area’s they weren’t working on. I organised an evening retro where we wrote down all areas of improvements including organising a team based meeting to discuss what we have each built and how it was built so that all team members had a good overview of what was being built, how it was built and why. <a href="https://github.com/CarlyJ88/Acebook-The-Brave-Bears/wiki/Day-5-Retro"></a>
            
-This Skill
-Experience
-Achievements
-Evidence
-Another Skill
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-I achieved A during my work at B (job, or otherwise)
-I contributed to the growth of X while doing Y (job, or otherwise)
-I built this, made this, broke this, fixed this, etc.
-A link to some on-line evidence (blogs, videos, articles, etc.)
+Strong Communicator - Prior to Makers I spent 10 years in recruitment, 5 years in an external agency and 5 years for a multinational Construction Engineering Consultancy. I have worked with hiring partners anywhere from Principal Engineer to Divisional Director and I feel comfortable with communication with people at all levels within a company organisation. I also undertand the importance of delivering quality, detailed feedback which focusses on both the positives of somebodies work, but also the area’s of improvement. I also feel comfortable that I can explain detailed technical information in a way that non technical people can understand. An example of this would be on our Brave Bears project, we had all split into pairs and were working on specific parts of a project when a number of team members were concerned about not understanding the other area’s they weren’t working on. I organised an evening retro where we wrote down all areas of improvements including organising a team based meeting to discuss what we have each built and how it was built so that all team members had a good overview of what was being built, how it was built and why. See here for details of that<a href="https://github.com/CarlyJ88/Acebook-The-Brave-Bears/wiki/Day-5-Retro">standup</a>
+          
 
 <h3 align="center">Education</h3>
 
