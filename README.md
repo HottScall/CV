@@ -30,6 +30,7 @@ Name | Description | Tech | Timeframe
 **[Rhythm is a Maker](https://github.com/shektor/rhythm-is-a-maker)** | Our final group project at Makers Academy. A team of 6 who chose to be in a group which focussed on a music related product decided to build a web application from the ground up which allowed you to create music on the go using our drum loop machine and virtual keyboard. Additional features include Live Chat and Disco Mode for the real party people. My personal involvement on this project was mainly around the front end design with a specific focus on building the Web API keyboard, its volume, and the various sounds effects.| Javascript, Tone.js, Xcode, Jasmine, Karma, Travis, Heroku | 2 weeks (group) 
 **[Bearbook](https://github.com/ocripps24/Acebook-The-Brave-Bears)** | A two-week group project whereby a team 6 Junior Developers had to build a basic version of Facebook from scratch using Ruby on Rails, a previously unused programming Tech Stack. We were presented with a client brief which we broke down into relevant User Stories which we assigned to pairs. For the initial Rails, Database and CI/CD set up we all mobbed together to ensure we had an involvement around project set up. My specific involvement on the project focused around creating new posts linked to users which showed on the timeline in a “newest post first” order and then adding usernames and timestamps to each post. | Ruby on Rails, RSpec, Capybara, Travis, Rubocop, PSQL | 2 weeks (group) 
 **[Ruby'N'B](https://github.com/Kintaro-Oe/MakersBnB)** | Our first group project at Makers where we has one week to build a clone of Air B’n’B based on a number of predetermined user stories. I was specifically involved in building the functionality where users can request bookings and ensuring that booking requests were received by the property owner. I also modelling the relational database and basic model diagram of how the basic flow of the app would work, see repo home page for diagrams | Ruby, Rspec, PSQL, Sinatra, Capybara | 1 week (group)
+**[React Calculator (incomplete)](https://github.com/Kintaro-Oe/MakersBnB)** | Following the completion of the course I was eager to try out a specific Javascript library just to gain some exposure in that area, I chose React as this seemed the most used library within the Javascript language. This project taught me about React components and how they interact and gave me some expsoure to testing with Jest. This project was initially built using React Tutorials.   | React, Jest, Enzyme | Personal project
 
 
 <br>
@@ -78,6 +79,12 @@ CI/CD — Continuous Improvements mainly via Travis and Continuous Deploymen
 
 I completed the first year of a Bsc in Computer Science from Birkbeck University, this was an part time course with lectures in the evening whilst I was still working full time. Lectures I covered and passed during my year at the Univeristy include; Problem Sovling for Programming, Maths for Computing, Database Modelling, Information Systems Concepts (Object Orientated Programming), Web Development (HTML & CSS) and Introduction to Javascript. 
 
+<h3 align="center">Greensward College</h3>
+<h4 align="center">GCSE's</h4>
+<h4 align="center">September 1995 - May 2000</h4>
+
+English - C, Maths - C, Science (Double) - B & C, German - B, French - C, Drama - B 
+
 <h2 align="center">Experience</h2>
 
 <h3 align="center">Aecom Ltd</h3>
@@ -112,3 +119,5 @@ In addition to my usual recruitment role I was also a CRM Super User, which enta
 <h4 align="center">Sept 2001 — May 2006</h4>
 
 <h2 align="center">Interests</h2>
+
+In my spare time I enjoy watching and attending sporting events with my main interests being; Football, Tennis, Cricket and Boxing. I enjoy bike rides and walks around the countryside to unwind and get away. I also enjoy watching live music events and have seen numerous bands and DJ's over the years. I have also recently volenteered to walk dogs from the local dog home in my spare time. 
