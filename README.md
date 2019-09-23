@@ -85,24 +85,24 @@ I often held and led weekly progress meetings with my direct hiring partners via
 In addition to my usual recruitment role I was also a CRM Super User, which entails looking at continual improvements of our Candidate Management Systems, some tasks are small such as; arranging for new hiring managers to be added to the system or managing our agency portal to larger improvement such providing improvement idea’s to our new CRM which were rolled out during my time at the company. 
 
 
-<h3 align="center">Jan 2014 — Aug 2014</h3>
-<h4 align="center">Eligo Recruitment</h4>
-<h5 align="center">Senior Building Services Recruitment Consultant</h5>
+<h3 align="center">Eligo Recruitment</h3>
+<h4 align="center">Senior Building Services Recruitment Consultant</h4>
+<h5 align="center">Jan 2014 — Aug 2014</h5>
 
-<h3 align="center">May 2010 — December 2013</h3>
-<h4 align="center">Morgan Hunt Recruitment</h4>
-<h5 align="center">Senior Building Services Recruitment Consultant</h5>
+<h3 align="center">Morgan Hunt Recruitment</h3>
+<h4 align="center">Senior Building Services Recruitment Consultant</h4>
+<h5 align="center">May 2010 — December 2013</h5>
 
-<h3 align="center">June 2008 — April 2010</h3>
-<h4 align="center">Pretium Securities Limited</h4>
-<h5 align="center">New Business Development Consultant</h5>
+<h3 align="center">Pretium Securities Limited</h3>
+<h4 align="center">New Business Development Consultant</h4>
+<h5 align="center">June 2008 — April 2010</h5>
 
-<h3 align="center">June 2006 — May 2008</h3>
-<h4 align="center">Broadgate Mercury Ltd</h4>
-<h5 align="center">Foreign Exchange Broker</h5>
+<h3 align="center">Broadgate Mercury Ltd</h3>
+<h4 align="center">Foreign Exchange Broker</h4>
+<h5 align="center">June 2006 — May 2008</h5>
 
-<h3 align="center">Sept 2001 — May 2006</h3>
-<h4 align="center">Royal Bank Of Scotland</h4>
-<h5 align="center">Personal Lending Advisor</h5>
+<h3 align="center">Royal Bank Of Scotland </h3>
+<h4 align="center">Personal Lending Advisor</h4>
+<h5 align="center">Sept 2001 — May 2006</h5>
 
 <h3 align="center">Interests</h3>
