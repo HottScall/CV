@@ -93,16 +93,16 @@ In addition to my usual recruitment role I was also a CRM Super User, which enta
 <h4 align="center">Morgan Hunt Recruitment</h4>
 <h5 align="center">Senior Building Services Recruitment Consultant</h5>
 
-<h5 align="center">June 2008 — April 2010</h5>
-<h5 align="center">Pretium Securities Limited</h5>
+<h3 align="center">June 2008 — April 2010</h3>
+<h4 align="center">Pretium Securities Limited</h4>
 <h5 align="center">New Business Development Consultant</h5>
 
-<h5 align="center">June 2006 — May 2008</h5>
-<h5 align="center">Broadgate Mercury Ltd</h5>
+<h3 align="center">June 2006 — May 2008</h3>
+<h4 align="center">Broadgate Mercury Ltd</h4>
 <h5 align="center">Foreign Exchange Broker</h5>
 
-<h5 align="center">Sept 2001 — May 2006</h5>
-<h5 align="center">Royal Bank Of Scotland</h5>
+<h3 align="center">Sept 2001 — May 2006</h3>
+<h4 align="center">Royal Bank Of Scotland</h4>
 <h5 align="center">Personal Lending Advisor</h5>
 
 <h3 align="center">Interests</h3>
