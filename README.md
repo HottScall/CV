@@ -52,9 +52,9 @@ I believe I have a strong team ethic, whereby I am always willing to share my kn
 
 <h2 align="center">Education</h2>
 
-<h5 align="center">March 2019 — June 2019</h5>
 <h5 align="center">Makers Academy</h5>
 <h5 align="center">Software Development Course</h5>
+<h5 align="center">March 2019 — June 2019</h5>
 
 During my time at Makers, I have undertaken various projects either as a team or by way of pair programming and I’ve been exposed to the following programming languages; Ruby, Rails, Javascript and JQuery. A large proportion of my time at Makers was spent using TDD methodology as well some coverage of feature testing. I also have an understanding of the following coding principles;
 
@@ -74,9 +74,9 @@ CI/CD — Continuous Improvements mainly via Travis and Continuous Deploymen
 
 <h2 align="center">Experience</h2>
 
-<h3 align="center">September 2014 — March 2019</h3>
-<h4 align="center">Aecom Ltd</h4>
-<h5 align="center">Senior Talent Acquisition Consultant</h5>
+<h3 align="center">Aecom Ltd</h3>
+<h4 align="center">Senior Talent Acquisition Consultant</h4>
+<h4 align="center">September 2014 — March 2019</h4>
 
 Aecom is a multinational Engineering firm with specialisms across Civil, Structural, Electrical, Mechanical and Process Engineering. I was responsible for recruiting the above Engineering disciplines within the Transportation sector across the UK & Ireland. My focus was on hiring people from Graduate Engineers up to Technical Director depending on the requirements for each office.
 
@@ -87,22 +87,22 @@ In addition to my usual recruitment role I was also a CRM Super User, which enta
 
 <h3 align="center">Eligo Recruitment</h3>
 <h4 align="center">Senior Building Services Recruitment Consultant</h4>
-<h5 align="center">Jan 2014 — Aug 2014</h5>
+<h4 align="center">Jan 2014 — Aug 2014</h4>
 
 <h3 align="center">Morgan Hunt Recruitment</h3>
 <h4 align="center">Senior Building Services Recruitment Consultant</h4>
-<h5 align="center">May 2010 — December 2013</h5>
+<h4 align="center">May 2010 — December 2013</h4>
 
 <h3 align="center">Pretium Securities Limited</h3>
 <h4 align="center">New Business Development Consultant</h4>
-<h5 align="center">June 2008 — April 2010</h5>
+<h4 align="center">June 2008 — April 2010</h4>
 
 <h3 align="center">Broadgate Mercury Ltd</h3>
 <h4 align="center">Foreign Exchange Broker</h4>
-<h5 align="center">June 2006 — May 2008</h5>
+<h4 align="center">June 2006 — May 2008</h4>
 
 <h3 align="center">Royal Bank Of Scotland </h3>
 <h4 align="center">Personal Lending Advisor</h4>
-<h5 align="center">Sept 2001 — May 2006</h5>
+<h4 align="center">Sept 2001 — May 2006</h4>
 
 <h2 align="center">Interests</h2>
