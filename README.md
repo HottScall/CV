@@ -16,14 +16,14 @@
 
 <br>
 
-<h3 align="center">Background</h3>
+<h2 align="center">Background</h2>
 
 Hi, I'm Scott and I'm a recent Makers Graduate having completed their 16 week (4 weeks pre-course off-site and 12 weeks full time on campus) software development boot camp. Prior to Makers I spent 10 years recruiting for Design Engineers within the construction industry and I was always intrigued by the team related Engineering ethos, where a group of individuals works together as a collective to achieve the end goal of delivering a project within a specific time frame. The more time I spent with these Engineers; sitting in their design and progress meetings, seeing the progression of how an idea becomes a reality, the more I wanted some involvement in this way of working. 
 Over the past several years I have also kept an eye on the emergence of the technology sector and its continual growth during those years were the main reasons I decided to switch careers.
 
 <br>
 
-<h3 align="center">Projects</h3>
+<h2 align="center">Projects</h2>
 
 Name | Description | Tech | Timeframe | Demo
 ---| --- | --- | --- | --- |
@@ -34,19 +34,19 @@ Name | Description | Tech | Timeframe | Demo
 
 <br>
 
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h2>
 
 <br>
 
-<h4 align="center">Strong Communicator</h4>
+<h3 align="center">Strong Communicator</h3>
            
 Prior to Makers I spent 10 years in recruitment, 5 years in an external agency and 5 years for a multinational Construction Engineering Consultancy. I have worked with hiring partners anywhere from Principal Engineer to Divisional Director and I feel comfortable with communication with people at all levels within a company organisation. I also undertand the importance of delivering quality, detailed feedback which focusses on both the positives of somebodies work, but also the area’s of improvement. I also feel comfortable that I can explain detailed technical information in a way that non technical people can understand. An example of this would be on our Brave Bears project, we had all split into pairs and were working on specific parts of a project when a number of team members were concerned about not understanding the other area’s they weren’t working on. I organised an evening retro where we wrote down all areas of improvements including organising a team based meeting to discuss what we have each built and how it was built so that all team members had a good overview of what was being built, how it was built and why. See here for details of that <a href="https://github.com/CarlyJ88/Acebook-The-Brave-Bears/wiki/Day-5-Retro">retro.</a>
 
-<h4 align="center">Domain Modelling</h4>
+<h3 align="center">Domain Modelling</h3>
 
 One of my lectures at University was Database Modelling, something the can in handy during the course at Makers. A team of 6 had been building a basic Air B’nB clone, the initial project was to build a users sign up/sign in page and and a list properties page. So initially we had 2 x Database Schema’s, one being User’s holding User Data and another being Properties holding property data. Upon completion of these initial builds an additional “client request” came in whereby users could request to book properties, thus meaning a new “requests” table needed to be added. Being that many users can make many requests and many properties can be requested, the tables were connected by many to many relationships. My prior experience with databases and was aware that tables can’t be connected by more than one many to many relationship, meaning we would need to have a users-requests and a properties-request table. In order to clearly explain this to my team I diagrammed a model of the databases, their current state and why just an additional requests table wasn’t enough. A copy of this diagram can be found <a href="https://github.com/Kintaro-Oe/MakersBnB">here.</a> Once the diagram was made and everybody understood why they couldn’t be connected as they were, the team agreed that the user request table and booking request tables were the best course of action and we proceeded on that basis.
           
-<h4 align="center">Team Ethic</h4>
+<h3 align="center">Team Ethic</h3>
 
 I believe I have a strong team ethic, whereby I am always willing to share my knowledge with others in order to help with anything that can help other people succeed. During my years in recruitment I spent the majority of my days working with LinkedIn to source candidates and advertise roles, I understood that LinkedIn was a powerful tool to both find candidates for roles, but also to find yourself a role. After numerous discussions with people on my cohort about LinkedIn I found out that a lot of people on my course had either rarely use LinkedIn or didn't have a LinkedIn profile. In order to help the those who hadn't I wrote a blog post on creating a LinkedIn profile, the do's and don't of using LinkedIn and how to maximise your skills within your profile. I then shared this blog post with the team, which helped those with no prior LinkedIn experience create profiles that assisted in their job search. A copy of the blog post can be found <a href="https://medium.com/@flashbacklondon_52728/linkedwin-how-you-can-utilize-linkedin-to-aid-your-job-search-4e1b0bdb77a1">here.</a>
 
@@ -72,10 +72,10 @@ Git — Creating repositories, creating branches of repo’s, submitting pul
 Postgres — Creating Schema’s, displaying tables, deleting rows and columns
 CI/CD — Continuous Improvements mainly via Travis and Continuous Deployment via Heroku
 
-<h3 align="center">Experience</h3>
+<h2 align="center">Experience</h2>
 
-<h5 align="center">September 2014 — March 2019</h5>
-<h5 align="center">Aecom Ltd</h5>
+<h3 align="center">September 2014 — March 2019</h3>
+<h4 align="center">Aecom Ltd</h4>
 <h5 align="center">Senior Talent Acquisition Consultant</h5>
 
 Aecom is a multinational Engineering firm with specialisms across Civil, Structural, Electrical, Mechanical and Process Engineering. I was responsible for recruiting the above Engineering disciplines within the Transportation sector across the UK & Ireland. My focus was on hiring people from Graduate Engineers up to Technical Director depending on the requirements for each office.
@@ -85,12 +85,12 @@ I often held and led weekly progress meetings with my direct hiring partners via
 In addition to my usual recruitment role I was also a CRM Super User, which entails looking at continual improvements of our Candidate Management Systems, some tasks are small such as; arranging for new hiring managers to be added to the system or managing our agency portal to larger improvement such providing improvement idea’s to our new CRM which were rolled out during my time at the company. 
 
 
-<h5 align="center">Jan 2014 — Aug 2014</h5>
-<h5 align="center">Eligo Recruitment</h5>
+<h3 align="center">Jan 2014 — Aug 2014</h3>
+<h4 align="center">Eligo Recruitment</h4>
 <h5 align="center">Senior Building Services Recruitment Consultant</h5>
 
-<h5 align="center">May 2010 — December 2013</h5>
-<h5 align="center">Morgan Hunt Recruitment</h5>
+<h3 align="center">May 2010 — December 2013</h3>
+<h4 align="center">Morgan Hunt Recruitment</h4>
 <h5 align="center">Senior Building Services Recruitment Consultant</h5>
 
 <h5 align="center">June 2008 — April 2010</h5>
@@ -104,9 +104,5 @@ In addition to my usual recruitment role I was also a CRM Super User, which enta
 <h5 align="center">Sept 2001 — May 2006</h5>
 <h5 align="center">Royal Bank Of Scotland</h5>
 <h5 align="center">Personal Lending Advisor</h5>
-
-Any experience relevent to software development
-Hobbies
-Any cool stuff that makes you a super part of a software development team
 
 <h3 align="center">Interests</h3>
