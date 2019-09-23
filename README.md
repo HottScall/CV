@@ -50,7 +50,7 @@ One of my lectures at University was Database Modelling, something the can in ha
 
 I believe I have a strong team ethic, whereby I am always willing to share my knowledge with others in order to help with anything that can help other people succeed. During my years in recruitment I spent the majority of my days working with LinkedIn to source candidates and advertise roles, I understood that LinkedIn was a powerful tool to both find candidates for roles, but also to find yourself a role. After numerous discussions with people on my cohort about LinkedIn I found out that a lot of people on my course had either rarely use LinkedIn or didn't have a LinkedIn profile. In order to help the those who hadn't I wrote a blog post on creating a LinkedIn profile, the do's and don't of using LinkedIn and how to maximise your skills within your profile. I then shared this blog post with the team, which helped those with no prior LinkedIn experience create profiles that assisted in their job search. A copy of the blog post can be found <a href="https://medium.com/@flashbacklondon_52728/linkedwin-how-you-can-utilize-linkedin-to-aid-your-job-search-4e1b0bdb77a1">here.</a>
 
-<h3 align="center">Education</h3>
+<h2 align="center">Education</h2>
 
 <h5 align="center">March 2019 — June 2019</h5>
 <h5 align="center">Makers Academy</h5>
@@ -105,4 +105,4 @@ In addition to my usual recruitment role I was also a CRM Super User, which enta
 <h4 align="center">Personal Lending Advisor</h4>
 <h5 align="center">Sept 2001 — May 2006</h5>
 
-<h3 align="center">Interests</h3>
+<h2 align="center">Interests</h2>
