@@ -73,7 +73,7 @@ Postgres — Creating Schema’s, displaying tables, deleting rows and colum
 CI/CD — Continuous Improvements mainly via Travis and Continuous Deployment via Heroku
 
 <h3 align="center">Birkbeck University</h3>
-<h4 align="center">Bsc in Computer Science</h4>
+<h4 align="center">Bsc in Computer Science (Incomplete, first year passed)</h4>
 <h4 align="center">October 2017 - May 2018</h4>
 
 I completed the first year of a Bsc in Computer Science from Birkbeck University, this was an part time course with lectures in the evening whilst I was still working full time. Lectures I covered and passed during my year at the Univeristy include; Problem Sovling for Programming, Maths for Computing, Database Modelling, Information Systems Concepts (Object Orientated Programming), Web Development (HTML & CSS) and Introduction to Javascript. 
