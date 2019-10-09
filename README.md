@@ -18,7 +18,7 @@
 
 <h2 align="center">Background</h2>
 
-Hi, I'm Scott and I'm a recent Makers Graduate having completed their 16 week (4 weeks pre-course off-site and 12 weeks full time on campus) software development boot camp. Prior to Makers I spent 10 years recruiting for Design Engineers within the construction industry and I was always intrigued by the team related Engineering ethos, where a group of individuals works together as a collective to achieve the end goal of delivering a project within a specific time frame. The more time I spent with these Engineers; sitting in their design and progress meetings, seeing the progression of how an idea becomes a reality, the more I wanted some involvement in this way of working. 
+Hi, I'm Scott and I'm a recent Makers Graduate having completed their 16 week software development boot camp. Prior to Makers I spent 10 years recruiting for Design Engineers within the construction industry and I was always intrigued by the team related Engineering ethos, where a group of individuals works together as a collective to achieve the end goal of delivering a project within a specific time frame. The more time I spent with these Engineers; sitting in their design and progress meetings, seeing the progression of how an idea becomes a reality, the more I wanted some involvement in this way of working. 
 Over the past several years I have also kept an eye on the emergence of the technology sector and its continual growth during those years were the main reasons I decided to switch careers.
 
 <br>
