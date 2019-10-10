@@ -18,8 +18,11 @@
 
 <h2 align="center">Background</h2>
 
-Hi, I'm Scott and I'm a recent Makers Graduate having completed their 16 week software development boot camp. Prior to Makers I spent 10 years recruiting for Design Engineers within the construction industry and I was always intrigued by the team related Engineering ethos, where a group of individuals works together as a collective to achieve the end goal of delivering a project within a specific time frame. The more time I spent with these Engineers; sitting in their design and progress meetings, seeing the progression of how an idea becomes a reality, the more I wanted some involvement in this way of working. 
-Over the past several years I have also kept an eye on the emergence of the technology sector and its continual growth during those years were the main reasons I decided to switch careers.
+Over the past few years, I have realised that I find a sense of enjoyment when planning, building and completing a project of any kind. Whether that be a summer house I recently built with my friend, fixing my bike as a teenager or my involvement in some of the web projects below. I enjoy being involved in a team and working as a collective to solve the inevitable problems that you came across on that journey, I find satisfaction is seeing something completed and knowing I played my part in that project. 
+
+Prior to Makers, I spent 10 years in the recruitment industry, 5 of those working directly for a Construction Engineering company. After spending a lot of time working closely with the Engineering Managers and their teams, I realised it was possible to feel that sense of satisfaction in my personal career too. 
+
+I joined the Makers Academy course in the hope that I would be able to realise the above, whilst also getting an understanding of the ever-changing world of Software Development. I wasn’t disappointed and I’m now looking for the opportunity the work with a team of developers to play my part in the building of those platforms for a living. 
 
 <br>
 
